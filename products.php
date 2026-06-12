@@ -119,6 +119,7 @@ body{
     background:var(--primary-dark);
     color:#fff;
 }
+
 .header{
     background:#69A84F;
     color:#fff;
@@ -157,8 +158,91 @@ body{
     margin-bottom:15px;
 }
 
-</style>
+.price{
+    font-weight:700;
+    color:#69A84F;
+}
 
+.mobile-product{
+    border:none;
+    border-radius:12px;
+    box-shadow:0 2px 12px rgba(0,0,0,.08);
+}
+
+.mobile-product .card-title{
+    font-size:15px;
+    font-weight:700;
+    margin-bottom:10px;
+}
+
+.mobile-product .row-item{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:6px;
+}
+
+.mobile-product .label{
+    color:#666;
+}
+
+.mobile-product .value{
+    font-weight:600;
+}
+
+@media (max-width:991px){
+
+    .navbar-collapse{
+        background:#69A84F;
+        margin-top:10px;
+        padding:15px;
+        border-radius:12px;
+    }
+
+    .navbar .nav-link{
+        margin-left:0;
+        padding:10px 0;
+        border-bottom:1px solid rgba(255,255,255,.15);
+    }
+
+    .navbar .nav-item:last-child .nav-link{
+        border-bottom:none;
+    }
+
+}
+
+@media (max-width:768px){
+
+    .dataTables_filter input{
+        min-width:100% !important;
+        width:100% !important;
+    }
+
+    .table-box{
+        padding:12px;
+    }
+
+    #productTable{
+        font-size:14px;
+    }
+
+    #productTable td,
+    #productTable th{
+        padding:8px;
+    }
+
+}
+
+#productTable{
+    width:100% !important;
+}
+
+#productTable td:first-child,
+#productTable th:first-child{
+    width:60%;
+    white-space:nowrap;
+}
+
+</style>
 </head>
 
 <body>
@@ -277,7 +361,9 @@ body{
         </div>
 
     </div>
-    <div class="table-box">
+<div class="table-box">
+
+    <div class="d-none d-md-block">
 
         <div class="table-responsive">
 
@@ -290,9 +376,7 @@ body{
 
                     <tr>
 
-                        <th>
-                            Tên sản phẩm
-                        </th>
+                        <th>Tên sản phẩm</th>
 
                         <th width="250">
                             Nhóm sản phẩm
@@ -312,36 +396,28 @@ body{
 
                 <tbody>
 
-                    <?php
+                <?php foreach ($products as $product):
 
+                    $price =
+                        !empty($product['sale_price'])
+                        ? $product['sale_price']
+                        : ($product['price'] ?? 0);
 
-                    foreach ($products as $product):
-
-                        $price =
-                            !empty($product['sale_price'])
-                            ? $product['sale_price']
-                            : ($product['price'] ?? 0);
-
-                    ?>
+                ?>
 
                     <tr>
 
-
                         <td>
-
                             <?= htmlspecialchars(
                                 $product['name'] ?? ''
                             ) ?>
-
                         </td>
 
                         <td>
-
                             <?= htmlspecialchars(
                                 $product['product_group_name']
                                 ?? ''
                             ) ?>
-
                         </td>
 
                         <td
@@ -374,7 +450,7 @@ body{
 
                     </tr>
 
-                    <?php endforeach; ?>
+                <?php endforeach; ?>
 
                 </tbody>
 
@@ -384,7 +460,97 @@ body{
 
     </div>
 
+<div class="d-md-none">
+
+        <?php foreach ($products as $product):
+
+            $price =
+                !empty($product['sale_price'])
+                ? $product['sale_price']
+                : ($product['price'] ?? 0);
+
+        ?>
+
+        <div class="card mobile-product mb-3">
+
+            <div class="card-body">
+
+                <h6 class="card-title">
+
+                    <?= htmlspecialchars(
+                        $product['name'] ?? ''
+                    ) ?>
+
+                </h6>
+
+                <div class="row-item">
+
+                    <span class="label">
+                        Nhóm
+                    </span>
+
+                    <span class="value">
+
+                        <?= htmlspecialchars(
+                            $product['product_group_name']
+                            ?? ''
+                        ) ?>
+
+                    </span>
+
+                </div>
+
+                <div class="row-item">
+
+                    <span class="label">
+                        Giá bán
+                    </span>
+
+                    <span class="value text-success">
+
+                        <?= number_format(
+                            (float)$price,
+                            0,
+                            ',',
+                            '.'
+                        ) ?>
+
+                        ₫
+
+                    </span>
+
+                </div>
+
+                <div class="row-item">
+
+                    <span class="label">
+                        Tồn kho
+                    </span>
+
+                    <span class="value">
+
+                        <?= (int)(
+                            $product['quantity']
+                            ?? 0
+                        ) ?>
+
+                    </span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <?php endforeach; ?>
+
+    </div>
+
 </div>
+
+</div>
+
+    
 
 <footer class="footer py-4 mt-5">
 
