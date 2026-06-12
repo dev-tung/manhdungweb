@@ -246,27 +246,29 @@ body{
 
                 foreach ($products as $product) {
 
-                    $group =
-                        trim(
-                            $product['product_group_name']
-                            ?? ''
-                        );
+                    $group = trim(
+                        $product['product_group_name']
+                        ?? ''
+                    );
 
-                    if ($group) {
+                    if ($group !== '') {
+
                         $groups[$group] = $group;
+
                     }
 
                 }
 
                 ksort($groups);
-
-                foreach ($groups as $group):
-
                 ?>
 
-                    <option value="<?= htmlspecialchars($group) ?>">
-                        <?= htmlspecialchars($group) ?>
-                    </option>
+                <?php foreach ($groups as $group): ?>
+
+                <option
+                    value="<?= htmlspecialchars(trim($group)) ?>"
+                >
+                    <?= htmlspecialchars(trim($group)) ?>
+                </option>
 
                 <?php endforeach; ?>
 
@@ -408,6 +410,10 @@ $(function() {
 
         pageLength: 50,
 
+        deferRender: true,
+
+        stateSave: true,
+
         lengthMenu: [
             [25, 50, 100, 200, -1],
             [25, 50, 100, 200, 'Tất cả']
@@ -451,12 +457,31 @@ $(function() {
         'change',
         function () {
 
-            table
-                .column(2)
-                .search(
-                    this.value
-                )
-                .draw();
+            const value = this.value;
+
+            if (value) {
+
+                table
+                    .column(1)
+                    .search(
+                        '^' +
+                        $.fn.dataTable.util.escapeRegex(
+                            value
+                        ) +
+                        '$',
+                        true,
+                        false
+                    )
+                    .draw();
+
+            } else {
+
+                table
+                    .column(1)
+                    .search('')
+                    .draw();
+
+            }
 
         }
     );
