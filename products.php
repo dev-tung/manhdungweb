@@ -222,6 +222,10 @@ body{
     white-space:nowrap;
 }
 
+#mobileSearch{
+    border-radius:10px;
+}
+
 </style>
 </head>
 
@@ -291,7 +295,19 @@ body{
 </nav>
 
 <div class="container py-5">
+
     <div class="row mb-3">
+
+        <div class="col-md-4 mb-2">
+
+            <input
+                type="text"
+                id="mobileSearch"
+                class="form-control"
+                placeholder="Tìm sản phẩm..."
+            >
+
+        </div>
 
         <div class="col-md-4">
 
@@ -451,7 +467,21 @@ body{
 
         ?>
 
-        <div class="card mobile-product mb-3">
+          <div
+              class="card mobile-product mb-3 mobile-item"
+              data-name="<?= htmlspecialchars(
+                  mb_strtolower(
+                      $product['name'] ?? '',
+                      'UTF-8'
+                  )
+              ) ?>"
+              data-group="<?= htmlspecialchars(
+                  mb_strtolower(
+                      $product['product_group_name'] ?? '',
+                      'UTF-8'
+                  )
+              ) ?>"
+          >
 
             <div class="card-body">
 
@@ -601,11 +631,59 @@ $(function() {
 
     });
 
-    $('#groupFilter').on(
-        'change',
-        function () {
+function filterMobileCards() {
 
-            const value = this.value;
+    const keyword =
+        $('#mobileSearch')
+            .val()
+            .toLowerCase()
+            .trim();
+
+    const group =
+        $('#groupFilter')
+            .val()
+            .toLowerCase()
+            .trim();
+
+    $('.mobile-item').each(function() {
+
+        const name =
+            $(this).data('name');
+
+        const itemGroup =
+            $(this).data('group');
+
+        const matchKeyword =
+            keyword === '' ||
+            name.includes(keyword);
+
+        const matchGroup =
+            group === '' ||
+            itemGroup === group;
+
+        $(this).toggle(
+            matchKeyword &&
+            matchGroup
+        );
+
+    });
+
+}
+
+$('#mobileSearch').on(
+    'keyup',
+    filterMobileCards
+);
+
+$('#groupFilter').on(
+    'change',
+    function () {
+
+        const value = this.value;
+
+        if (
+            window.innerWidth >= 768
+        ) {
 
             if (value) {
 
@@ -632,7 +710,11 @@ $(function() {
             }
 
         }
-    );
+
+        filterMobileCards();
+
+    }
+);
 
 });
 
