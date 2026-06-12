@@ -189,26 +189,6 @@ body{
     font-weight:600;
 }
 
-@media (max-width:991px){
-
-    .navbar-collapse{
-        background:#69A84F;
-        margin-top:10px;
-        padding:15px;
-        border-radius:12px;
-    }
-
-    .navbar .nav-link{
-        margin-left:0;
-        padding:10px 0;
-        border-bottom:1px solid rgba(255,255,255,.15);
-    }
-
-    .navbar .nav-item:last-child .nav-link{
-        border-bottom:none;
-    }
-
-}
 
 @media (max-width:768px){
 
@@ -567,6 +547,8 @@ body{
 <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
 
 <script src="https://cdn.datatables.net/1.13.8/js/dataTables.bootstrap5.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 <script>
 
