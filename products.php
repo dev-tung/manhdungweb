@@ -303,7 +303,7 @@ body{
 
     <div class="row mb-3">
 
-        <div class="col-md-4 mb-2">
+        <div class="col-md-4 mb-2 d-md-none">
 
             <input
                 type="text"
@@ -461,7 +461,7 @@ body{
 
     </div>
 
-<div class="d-md-none">
+    <div class="d-md-none">
 
         <?php foreach ($products as $product):
 
@@ -557,9 +557,15 @@ body{
 
         </div>
 
-        <?php endforeach; ?>
+      <?php endforeach; ?>
 
-    </div>
+      <div
+          id="noProductMessage"
+          class="alert alert-warning text-center mt-3"
+          style="display:none;"
+      >
+          Không có sản phẩm phù hợp.
+      </div>
 
 </div>
 
@@ -650,6 +656,8 @@ function filterMobileCards() {
             .toLowerCase()
             .trim();
 
+    let visibleCount = 0;
+
     $('.mobile-item').each(function() {
 
         const name =
@@ -666,12 +674,21 @@ function filterMobileCards() {
             group === '' ||
             itemGroup === group;
 
-        $(this).toggle(
+        const visible =
             matchKeyword &&
-            matchGroup
-        );
+            matchGroup;
+
+        $(this).toggle(visible);
+
+        if (visible) {
+            visibleCount++;
+        }
 
     });
+
+    $('#noProductMessage').toggle(
+        visibleCount === 0
+    );
 
 }
 
