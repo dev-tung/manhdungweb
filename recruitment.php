@@ -426,7 +426,7 @@
 
                         <tr>
                             <td>Lương cơ bản</td>
-                            <td>7 - 10 triệu</td>
+                            <td>Thỏa thuận khi trao đổi</td>
                         </tr>
 
                         <tr>
@@ -456,7 +456,7 @@
                 <h2>6. Thời gian làm việc</h2>
 
                 <ul>
-                    <li>Làm việc Full-time.</li>
+                    <li>Làm việc Full-time or theo ca</li>
                     <li>Ca làm việc sẽ được trao đổi khi phỏng vấn.</li>
                     <li>Nghỉ theo quy định của công ty.</li>
                 </ul>
