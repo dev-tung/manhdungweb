@@ -336,7 +336,12 @@ white-space:nowrap;
                         Cộng tác viên bán hàng
                     </a>
                 </li>
-
+                <li class="nav-item">
+                    <a class="nav-link"
+                      href="recruitment.php">
+                        Tuyển dụng
+                    </a>
+                </li>
             </ul>
 
         </div>

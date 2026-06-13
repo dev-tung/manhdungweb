@@ -266,7 +266,7 @@ body{
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link active"
+                    <a class="nav-link"
                        href="products.php">
                         Sản phẩm
                     </a>
@@ -285,7 +285,12 @@ body{
                         Cộng tác viên bán hàng
                     </a>
                 </li>
-
+                <li class="nav-item">
+                    <a class="nav-link"
+                      href="recruitment.php">
+                        Tuyển dụng
+                    </a>
+                </li>
             </ul>
 
         </div>

@@ -358,119 +358,135 @@
 
             <div class="text-center mb-5">
 
-                <h1 class="policy-title">
-                    Chính Sách Cộng Tác Viên Bán Hàng
-                </h1>
+              <h1 class="policy-title">
+                  Tuyển Dụng Nhân Sự
+              </h1>
 
-                <div class="policy-meta">
-                    15 Tháng 1, 2026 | admin | Tin tức
-                </div>
+              <div class="policy-meta">
+                  15 Tháng 1, 2026 | admin | Tuyển dụng
+              </div>
 
             </div>
 
             <div class="policy-content">
 
-                <h2>1. Nguyên tắc áp dụng</h2>
+                <h2>1. Giới thiệu</h2>
 
-                <ul>
-                    <li>Hoa hồng được tính dựa trên lợi nhuận thực tế của từng đơn hàng.</li>
-                    <li>Mức hoa hồng cao nhất là 30% lợi nhuận.</li>
-                    <li>Doanh số chỉ ghi nhận với đơn hàng giao thành công.</li>
-                    <li>Không phát sinh đổi trả hoặc hoàn tiền.</li>
-                </ul>
+                <p>
+                    Mạnh Dũng Sports tuyển dụng nhân sự làm việc tại cửa hàng nhằm đáp ứng nhu cầu phát triển
+                    và mở rộng hoạt động kinh doanh. Chúng tôi tìm kiếm những ứng viên năng động,
+                    trung thực và mong muốn gắn bó lâu dài.
+                </p>
 
-                <h2>2. Cách tính hoa hồng</h2>
+                <h2>2. Vị trí tuyển dụng</h2>
 
                 <div class="formula-box">
-                    Hoa hồng CTV = (Giá bán thực tế cho khách – Giá vốn sản phẩm) × Tỷ lệ hoa hồng
+                    Nhân viên đứng SHOP cầu lông
                 </div>
 
-                <p><strong>Giá bán thực tế:</strong> Giá khách hàng thanh toán sau ưu đãi hợp lệ.</p>
-                <p><strong>Giá vốn:</strong> Giá nhập sản phẩm của cửa hàng.</p>
+                <p>
+                    <strong>Số lượng:</strong> 01 nhân sự
+                </p>
 
-                <h2>3. Mức hoa hồng theo doanh số tháng</h2>
+                <h2>3. Mô tả công việc</h2>
+
+                <ul>
+                    <li>Đứng shop tư vấn và bán hàng trực tiếp cho khách.</li>
+                    <li>Hỗ trợ khách lựa chọn vợt, giày và phụ kiện phù hợp.</li>
+                    <li>Thực hiện căng cước vợt cầu lông theo yêu cầu khách hàng.</li>
+                    <li>Giao hàng trong khu vực khi có yêu cầu.</li>
+                    <li>Đóng gói và kiểm tra đơn hàng.</li>
+                    <li>Tương tác, chăm sóc và hỗ trợ khách hàng tại cửa hàng.</li>
+                    <li>Sắp xếp và trưng bày sản phẩm theo quy định.</li>
+                    <li>Giữ gìn vệ sinh và hình ảnh cửa hàng.</li>
+                </ul>
+
+                <h2>4. Yêu cầu ứng viên</h2>
+
+                <ul>
+                    <li>Nam từ 18 - 30 tuổi.</li>
+                    <li>Sức khỏe tốt, nhanh nhẹn và trung thực.</li>
+                    <li>Có trách nhiệm trong công việc.</li>
+                    <li>Yêu thích thể thao, đặc biệt là cầu lông là một lợi thế.</li>
+                    <li>Chưa có kinh nghiệm sẽ được đào tạo.</li>
+                </ul>
+
+                <h2>5. Thu nhập & Quyền lợi</h2>
 
                 <table class="table commission-table">
 
                     <thead>
-
                         <tr>
-                            <th>Doanh số tháng</th>
-                            <th>Hoa hồng</th>
+                            <th>Hạng mục</th>
+                            <th>Thông tin</th>
                         </tr>
-
                     </thead>
 
                     <tbody>
 
                         <tr>
-                            <td>Dưới 10.000.000 đồng</td>
-                            <td>20% lợi nhuận</td>
+                            <td>Lương cơ bản</td>
+                            <td>7 - 10 triệu</td>
                         </tr>
 
                         <tr>
-                            <td>10.000.000 - dưới 30.000.000 đồng</td>
-                            <td>25% lợi nhuận</td>
+                            <td>Thưởng</td>
+                            <td>Thưởng doanh số và hiệu quả công việc</td>
                         </tr>
 
                         <tr>
-                            <td>Từ 30.000.000 đồng trở lên</td>
-                            <td>
-                                <strong class="text-danger">
-                                    30% lợi nhuận
-                                </strong>
-                            </td>
+                            <td>Đào tạo</td>
+                            <td>Được đào tạo căng vợt và kỹ năng bán hàng</td>
+                        </tr>
+
+                        <tr>
+                            <td>Môi trường</td>
+                            <td>Trẻ trung, năng động, thân thiện</td>
+                        </tr>
+
+                        <tr>
+                            <td>Cơ hội phát triển</td>
+                            <td>Thăng tiến lên vị trí quản lý cửa hàng</td>
                         </tr>
 
                     </tbody>
 
                 </table>
 
-                <h2>4. Điều kiện ghi nhận doanh số</h2>
+                <h2>6. Thời gian làm việc</h2>
 
                 <ul>
-                    <li>Giao hàng thành công.</li>
-                    <li>Bán đúng giá quy định của cửa hàng.</li>
-                    <li>Không phát sinh khiếu nại hoặc đổi trả.</li>
+                    <li>Làm việc Full-time.</li>
+                    <li>Ca làm việc sẽ được trao đổi khi phỏng vấn.</li>
+                    <li>Nghỉ theo quy định của công ty.</li>
                 </ul>
 
-                <h2>5. Thời điểm ghi nhận và đối soát hoa hồng</h2>
+                <h2>7. Hồ sơ ứng tuyển</h2>
 
                 <ul>
-                    <li>Đối soát doanh số vào cuối mỗi tháng.</li>
-                    <li>Thanh toán sau khi hoàn tất đối soát.</li>
-                    <li>Hình thức thanh toán: chuyển khoản ngân hàng.</li>
+                    <li>CV cá nhân.</li>
+                    <li>Thông tin liên hệ.</li>
+                    <li>Kinh nghiệm làm việc (nếu có).</li>
                 </ul>
 
-                <h2>6. Các trường hợp không áp dụng hoa hồng 30%</h2>
-
-                <ul>
-                    <li>Sản phẩm xả kho, thanh lý hoặc khuyến mãi sâu.</li>
-                    <li>Đơn hàng bán thấp hơn giá tối thiểu.</li>
-                    <li>Đơn hàng đang xử lý khiếu nại hoặc đổi trả.</li>
-                </ul>
-
-                <h2>7. Điều chỉnh và chấm dứt áp dụng</h2>
-
-                <ul>
-                    <li>Cửa hàng có quyền điều chỉnh doanh số và tỷ lệ hoa hồng.</li>
-                    <li>Không ghi nhận hoa hồng nếu vi phạm quy định.</li>
-                    <li>Có quyền ngừng hợp tác khi ảnh hưởng đến uy tín cửa hàng.</li>
-                </ul>
-
-                <h2>8. Điều khoản cuối cùng</h2>
+                <h2>8. Thông tin liên hệ</h2>
 
                 <p>
-                    Việc tiếp tục hợp tác bán hàng được xem là cộng tác viên đã đồng ý
-                    với toàn bộ nội dung chính sách này.
+                    <strong>Mạnh Dũng Sports</strong>
                 </p>
 
                 <p>
-                    Chính sách này có hiệu lực kể từ ngày ban hành.
+                    Hotline: 0973 359 165
+                </p>
+
+                <h2>9. Cách thức ứng tuyển</h2>
+
+                <p>
+                    Ứng viên vui lòng gửi CV xin việc & (1 video đánh cầu lông của ứng viên) qua số Zalo 0973 359 165.
                 </p>
 
                 <p>
-                    Mọi thay đổi (nếu có) sẽ được thông báo trước cho cộng tác viên.
+                    Chúng tôi sẽ liên hệ với các ứng viên phù hợp trong thời gian sớm nhất.
                 </p>
 
             </div>
