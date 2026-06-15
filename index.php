@@ -398,7 +398,7 @@
             </p>
 
             <p>
-                <strong>Địa chỉ SHOP:</strong><br>
+                <strong>Địa chỉ SHOP:</strong>
                 Số 72, phố Văn Giang,
                 Xã Văn Giang,
                 Tỉnh Hưng Yên,
@@ -406,7 +406,7 @@
             </p>
 
             <p>
-                <strong>Có thể giao dịch trực tiếp tại:</strong><br>
+                <strong>Có thể giao dịch trực tiếp tại:</strong>
                 Tòa S1.12, Khu đô thị Vinhomes Ocean Park 1
             </p>
 
