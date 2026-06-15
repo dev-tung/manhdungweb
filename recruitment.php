@@ -404,7 +404,7 @@
     <h2>4. Yêu cầu ứng viên</h2>
 
     <ul>
-        <li>Nam từ 18 - 30 tuổi.</li>
+        <li>Nam/Nữ từ 18 - 30 tuổi.</li>
         <li>Sức khỏe tốt, nhanh nhẹn và trung thực.</li>
         <li>Có trách nhiệm trong công việc.</li>
         <li>Biết chơi cầu lông cơ bản là một lợi thế.</li>
