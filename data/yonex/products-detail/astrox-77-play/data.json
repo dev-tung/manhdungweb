@@ -1,0 +1,37 @@
+{
+    "name": "ASTROX 77 PLAY",
+    "slug": "astrox-77-play",
+    "url": "https://www.yonex.com/badminton/racquets/astrox-77-play",
+    "category": "racquets",
+    "image": "https://www.yonex.com/media/catalog/product/i/n/int_ax77-pl_343-1.jpg?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/racquets/astrox-77-play.jpg",
+    "title": "ASTROX 77 PLAY",
+    "description": null,
+    "specs": {
+        "Flex": "Hi-Flex",
+        "Frame": "Graphite",
+        "Shaft": "Graphite",
+        "Length": "10 mm longer",
+        "Weight / Grip": "4U (Avg. 83g) G5,6",
+        "Stringing Advice": "4U: 20 - 28 lbs",
+        "Recommended String": "Control Players: AEROBITE  Hard Hitters:  EXBOLT65",
+        "Color(s)": "Light Beige, High Orange",
+        "Item Code": "AX77-PL",
+        "MAIN TIE OFF:\r\nb8, B8": "CROSS TIE OFF:\r\nA5"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/i/n/int_ax77-pl_343-1.jpg",
+        "https://www.yonex.com/media/catalog/product/i/n/int_ax77-pl_343-2.jpg",
+        "https://www.yonex.com/media/catalog/product/i/n/int_ax77-pl_343-3.jpg",
+        "https://www.yonex.com/media/catalog/product/i/n/int_ax77-pl_343-4.jpg",
+        "https://www.yonex.com/media/catalog/product/i/n/int_ax77-pl_343-5.jpg"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/racquets/astrox-77-play",
+    "local_images": [
+        "data/yonex/products-detail/astrox-77-play/img/1.jpg",
+        "data/yonex/products-detail/astrox-77-play/img/2.jpg",
+        "data/yonex/products-detail/astrox-77-play/img/3.jpg",
+        "data/yonex/products-detail/astrox-77-play/img/4.jpg",
+        "data/yonex/products-detail/astrox-77-play/img/5.jpg"
+    ]
+}

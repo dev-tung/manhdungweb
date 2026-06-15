@@ -1,0 +1,29 @@
+{
+    "name": "POWER CUSHION 88 DIAL UNISEX",
+    "slug": "power-cushion-88-dial-unisex",
+    "url": "https://www.yonex.com/badminton/footwear/power-cushion-88-dial-unisex",
+    "category": "footwear",
+    "image": "https://www.yonex.com/media/catalog/product/a/l/all_shb88d3_269-1_1.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/footwear/power-cushion-88-dial-unisex.png",
+    "title": "POWER CUSHION 88 DIAL UNISEX",
+    "description": null,
+    "specs": {
+        "Color(s)": "Deep Green",
+        "Surface": "All-Court",
+        "Upper": "Synthetic Fiber",
+        "Midsole": "Synthetic Resin",
+        "Outsole": "Rubber Sole",
+        "Size": "25.0 ~ 30.0, 31.0 cm",
+        "Material": "POWER CUSHION+, POWER CUSHION, Hyper ms LITE、Durable Skin Light, Toughbrid Light, Power Graphite Sheet",
+        "Item Code": "SHB88D3"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/l/all_shb88d3_269-1_1.png",
+        "https://www.yonex.com/media/catalog/product/a/l/all_shb88d3_269-2_1.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/footwear/power-cushion-88-dial-unisex",
+    "local_images": [
+        "data/yonex/products-detail/power-cushion-88-dial-unisex/img/1.png",
+        "data/yonex/products-detail/power-cushion-88-dial-unisex/img/2.png"
+    ]
+}

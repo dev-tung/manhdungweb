@@ -1,0 +1,20 @@
+{
+    "name": "LEAGUE 7",
+    "slug": "league-7",
+    "url": "https://www.yonex.com/badminton/shuttlecocks/league-7",
+    "category": "shuttlecocks",
+    "image": "https://www.yonex.com/media/catalog/product/l/e/league7.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/shuttlecocks/league-7.png",
+    "title": "LEAGUE 7",
+    "description": null,
+    "specs": {
+        "Quantity": "1 Tube / 12 Shuttlecocks"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/l/e/league7.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/shuttlecocks/league-7",
+    "local_images": [
+        "data/yonex/products-detail/league-7/img/1.png"
+    ]
+}

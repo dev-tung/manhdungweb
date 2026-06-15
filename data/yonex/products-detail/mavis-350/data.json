@@ -1,0 +1,23 @@
+{
+    "name": "MAVIS 350",
+    "slug": "mavis-350",
+    "url": "https://www.yonex.com/badminton/shuttlecocks/m-350",
+    "category": "shuttlecocks",
+    "image": "https://www.yonex.com/media/catalog/product/m/a/mavis350_1.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/shuttlecocks/mavis-350.png",
+    "title": "MAVIS 350",
+    "description": "",
+    "specs": {
+        "Speeds": "Slow, Medium, Fast",
+        "Color(s)": "White, Yellow",
+        "Quantity": "1 Tube / 6 Shuttlecocks",
+        "Item Code": "(White / Slow) M350S, (White / Medium) M350M, (White / Fast) M350F, (Yellow / Slow) M350YS, (Yellow / Medium) M350YM, (Yellow / Slow) M350YF"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/m/a/mavis350_1.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/shuttlecocks/mavis-350",
+    "local_images": [
+        "data/yonex/products-detail/mavis-350/img/1.png"
+    ]
+}

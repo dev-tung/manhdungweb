@@ -1,0 +1,22 @@
+{
+    "name": "COVER FOR FIXED SERVICE HEIGHT TOOL",
+    "slug": "cover-for-fixed-service-height-tool",
+    "url": "https://www.yonex.com/badminton/accessories/cover-for-fixed-service-height-tool",
+    "category": "accessories",
+    "image": "https://www.yonex.com/media/catalog/product/a/c/ac330_cover.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/accessories/cover-for-fixed-service-height-tool.png",
+    "title": "COVER FOR FIXED SERVICE HEIGHT TOOL",
+    "description": "",
+    "specs": {
+        "Size": "500 × 500 × 135mm",
+        "Made In": "Japan",
+        "Item Code": "AC330C"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/c/ac330_cover.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/accessories/cover-for-fixed-service-height-tool",
+    "local_images": [
+        "data/yonex/products-detail/cover-for-fixed-service-height-tool/img/1.png"
+    ]
+}

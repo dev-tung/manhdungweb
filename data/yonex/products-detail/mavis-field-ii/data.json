@@ -1,0 +1,22 @@
+{
+    "name": "MAVIS FIELD II",
+    "slug": "mavis-field-ii",
+    "url": "https://www.yonex.com/badminton/shuttlecocks/mavis-field-ii",
+    "category": "shuttlecocks",
+    "image": "https://www.yonex.com/media/catalog/product/m/a/mavis_field_ii_set_02.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/shuttlecocks/mavis-field-ii.png",
+    "title": "MAVIS FIELD II",
+    "description": "",
+    "specs": {
+        "Speeds": "Medium",
+        "Color(s)": "Yellow",
+        "Quantity": "1 Tube / 3 Shuttlecocks"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/m/a/mavis_field_ii_set_02.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/shuttlecocks/mavis-field-ii",
+    "local_images": [
+        "data/yonex/products-detail/mavis-field-ii/img/1.png"
+    ]
+}

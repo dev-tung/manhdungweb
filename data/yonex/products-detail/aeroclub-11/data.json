@@ -1,0 +1,20 @@
+{
+    "name": "AEROCLUB 11",
+    "slug": "aeroclub-11",
+    "url": "https://www.yonex.com/badminton/shuttlecocks/aeroclub-11",
+    "category": "shuttlecocks",
+    "image": "https://www.yonex.com/media/catalog/product/a/e/aeroclub_11.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/shuttlecocks/aeroclub-11.png",
+    "title": "AEROCLUB 11",
+    "description": null,
+    "specs": {
+        "Quantity": "1 Tube / 12 Shuttlecocks"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/e/aeroclub_11.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/shuttlecocks/aeroclub-11",
+    "local_images": [
+        "data/yonex/products-detail/aeroclub-11/img/1.png"
+    ]
+}

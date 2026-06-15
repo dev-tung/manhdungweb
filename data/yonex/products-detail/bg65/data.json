@@ -1,0 +1,28 @@
+{
+    "name": "BG65",
+    "slug": "bg65",
+    "url": "https://www.yonex.com/badminton/strings/bg65",
+    "category": "strings",
+    "image": "https://www.yonex.com/media/catalog/product/b/g/bg65yx_004-1.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/strings/bg65.png",
+    "title": "BG65",
+    "description": null,
+    "specs": {
+        "Color(s)": "Yellow, Orange, Black, White, Amber, Lavender, Violet, Royal Blue, Turquoise",
+        "Gauge": "0.70 mm",
+        "Length": "10 m (33 ft) / 200 m (656 ft) / 500 m (1,640 ft)",
+        "Core": "High Polymer Nylon Multifilament",
+        "Outer": "Special Braided High Polymer Nylon",
+        "Made In": "Japan",
+        "Item Code": "BG65"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/b/g/bg65yx_004-1.png",
+        "https://www.yonex.com/media/catalog/product/b/g/bg65_ex_pac.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/strings/bg65",
+    "local_images": [
+        "data/yonex/products-detail/bg65/img/1.png",
+        "data/yonex/products-detail/bg65/img/2.png"
+    ]
+}

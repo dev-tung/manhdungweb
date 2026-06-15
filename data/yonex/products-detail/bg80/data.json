@@ -1,0 +1,26 @@
+{
+    "name": "BG80",
+    "slug": "bg80",
+    "url": "https://www.yonex.com/badminton/strings/bg80",
+    "category": "strings",
+    "image": "https://www.yonex.com/media/catalog/product/b/g/bg80yx_004-1.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/strings/bg80.png",
+    "title": "BG80",
+    "description": null,
+    "specs": {
+        "Color(s)": "Yellow, Black, White, Sky Blue, Violet, Royal Blue, Neon Pink",
+        "Gauge": "0.68 mm",
+        "Length": "10 m (33 ft) / 200 m (656 ft)",
+        "Core": "High Polymer Nylon Multifilament with Vectran™",
+        "Outer": "Special Braided Oval Shaped High Polymer Nylon",
+        "Made In": "Japan",
+        "Item Code": "BG80"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/b/g/bg80yx_004-1.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/strings/bg80",
+    "local_images": [
+        "data/yonex/products-detail/bg80/img/1.png"
+    ]
+}

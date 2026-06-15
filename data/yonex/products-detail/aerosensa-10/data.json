@@ -1,0 +1,21 @@
+{
+    "name": "AEROSENSA 10",
+    "slug": "aerosensa-10",
+    "url": "https://www.yonex.com/badminton/shuttlecocks/aerosensa-10",
+    "category": "shuttlecocks",
+    "image": "https://www.yonex.com/media/catalog/product/a/e/aerosensa_10.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/shuttlecocks/aerosensa-10.png",
+    "title": "AEROSENSA 10",
+    "description": "",
+    "specs": {
+        "Quantity": "1 Tube / 12 Shuttlecocks",
+        "Item Code": "AS-10"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/e/aerosensa_10.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/shuttlecocks/aerosensa-10",
+    "local_images": [
+        "data/yonex/products-detail/aerosensa-10/img/1.png"
+    ]
+}

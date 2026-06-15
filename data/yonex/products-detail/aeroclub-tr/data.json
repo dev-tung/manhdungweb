@@ -1,0 +1,20 @@
+{
+    "name": "AEROCLUB TR",
+    "slug": "aeroclub-tr",
+    "url": "https://www.yonex.com/badminton/shuttlecocks/aeroclub-tr",
+    "category": "shuttlecocks",
+    "image": "https://www.yonex.com/media/catalog/product/a/e/aeroclub_tr.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/shuttlecocks/aeroclub-tr.png",
+    "title": "AEROCLUB TR",
+    "description": null,
+    "specs": {
+        "Quantity": "1 Tube / 12 Shuttlecocks"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/e/aeroclub_tr.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/shuttlecocks/aeroclub-tr",
+    "local_images": [
+        "data/yonex/products-detail/aeroclub-tr/img/1.png"
+    ]
+}

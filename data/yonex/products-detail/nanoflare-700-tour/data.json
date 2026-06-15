@@ -1,0 +1,39 @@
+{
+    "name": "NANOFLARE 700 TOUR",
+    "slug": "nanoflare-700-tour",
+    "url": "https://www.yonex.com/badminton/racquets/2nf-700t",
+    "category": "racquets",
+    "image": "https://www.yonex.com/media/catalog/product/a/l/all_2nf-700t_343-1.jpg?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/racquets/nanoflare-700-tour.jpg",
+    "title": "NANOFLARE 700 TOUR",
+    "description": null,
+    "specs": {
+        "Flex": "Medium",
+        "Frame": "HM Graphite, Nanocell NEO, SUPER HMG, SERVO FILTER",
+        "Shaft": "HM Graphite, SERVO FILTER",
+        "Joint": "Built-in T-Joint",
+        "Length": "10 mm longer",
+        "Weight / Grip": "4U5,6/5U5,6",
+        "Stringing Advice": "5U: 19 - 27 lbs4U: 20 - 28 lbs",
+        "Recommended String": "Control Players: EXBOLT63 Hard Hitters: EXBOLT65 The images are Blue and Purple",
+        "Color(s)": "Light Beige, Midnight Purple, Silver / Sky Blue",
+        "Made In": "Taiwan",
+        "Item Code": "2NF-700T",
+        "MAIN TIE OFF: b8, B8": "CROSS TIE OFF: A5"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/l/all_2nf-700t_343-1.jpg",
+        "https://www.yonex.com/media/catalog/product/a/l/all_2nf-700t_343-2.jpg",
+        "https://www.yonex.com/media/catalog/product/a/l/all_2nf-700t_343-3.jpg",
+        "https://www.yonex.com/media/catalog/product/a/l/all_2nf-700t_343-4.jpg",
+        "https://www.yonex.com/media/catalog/product/a/l/all_2nf-700t_343-5.jpg"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/racquets/nanoflare-700-tour",
+    "local_images": [
+        "data/yonex/products-detail/nanoflare-700-tour/img/1.jpg",
+        "data/yonex/products-detail/nanoflare-700-tour/img/2.jpg",
+        "data/yonex/products-detail/nanoflare-700-tour/img/3.jpg",
+        "data/yonex/products-detail/nanoflare-700-tour/img/4.jpg",
+        "data/yonex/products-detail/nanoflare-700-tour/img/5.jpg"
+    ]
+}

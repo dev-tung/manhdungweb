@@ -1,0 +1,31 @@
+{
+    "name": "CROSSWIND 70",
+    "slug": "crosswind-70",
+    "url": "https://www.yonex.com/badminton/shuttlecocks/crosswind-70",
+    "category": "shuttlecocks",
+    "image": "https://www.yonex.com/media/catalog/product/a/l/all_cw-70p_011_sub.jpg?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/shuttlecocks/crosswind-70.jpg",
+    "title": "CROSSWIND 70",
+    "description": "",
+    "specs": {
+        "Material(s)": "Nylon + Carbon + Natural Cork",
+        "Color(s)": "White",
+        "Quantity": "1 Tube / 6 Shuttlecocks",
+        "Item Code": "CW-70P"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/l/all_cw-70p_011_sub.jpg",
+        "https://www.yonex.com/media/catalog/product/a/l/all_cw-70p_011-1.jpg",
+        "https://www.yonex.com/media/catalog/product/a/l/all_cw-70p_011-2.jpg",
+        "https://www.yonex.com/media/catalog/product/a/l/all_cw-70p_011-3.jpg",
+        "https://www.yonex.com/media/catalog/product/a/l/all_cw-70p_011-4.jpg"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/shuttlecocks/crosswind-70",
+    "local_images": [
+        "data/yonex/products-detail/crosswind-70/img/1.jpg",
+        "data/yonex/products-detail/crosswind-70/img/2.jpg",
+        "data/yonex/products-detail/crosswind-70/img/3.jpg",
+        "data/yonex/products-detail/crosswind-70/img/4.jpg",
+        "data/yonex/products-detail/crosswind-70/img/5.jpg"
+    ]
+}

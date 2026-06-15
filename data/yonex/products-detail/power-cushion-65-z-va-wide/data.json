@@ -1,0 +1,29 @@
+{
+    "name": "POWER CUSHION 65 Z VA WIDE",
+    "slug": "power-cushion-65-z-va-wide",
+    "url": "https://www.yonex.com/badminton/footwear/shbvazw",
+    "category": "footwear",
+    "image": "https://www.yonex.com/media/catalog/product/a/l/all_shbvazw_452-1.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/footwear/power-cushion-65-z-va-wide.png",
+    "title": "POWER CUSHION 65 Z VA WIDE",
+    "description": null,
+    "specs": {
+        "Color(s)": "Grayish Beige",
+        "Upper": "Synthetic Leather",
+        "Midsole": "Synthetic Resin",
+        "Outsole": "Rubber Sole",
+        "Size": "22.0 ~ 30.0, 31.0, 32.0 cm",
+        "Material": "POWER CUSHION +, Power Graphite Lite, Seameless Upper, Inner Bootie, Ergonomic Shaped Outsole",
+        "Made In": "Vietnam",
+        "Item Code": "SHBVAZW"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/l/all_shbvazw_452-1.png",
+        "https://www.yonex.com/media/catalog/product/a/l/all_shbvazw_452-2.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/footwear/power-cushion-65-z-va-wide",
+    "local_images": [
+        "data/yonex/products-detail/power-cushion-65-z-va-wide/img/1.png",
+        "data/yonex/products-detail/power-cushion-65-z-va-wide/img/2.png"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "ARCSABER 7 PRO",
+    "slug": "arcsaber-7-pro",
+    "url": "https://www.yonex.com/badminton/racquets/arc7-p",
+    "category": "racquets",
+    "image": "https://www.yonex.com/media/catalog/product/a/r/arc7-p.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/racquets/arcsaber-7-pro.png",
+    "title": "ARCSABER 7 PRO",
+    "description": null,
+    "specs": {
+        "Flex": "Medium",
+        "Frame": "HM Graphite, POCKETING BOOSTER",
+        "Shaft": "HM Graphite, Ultra PE FIBER",
+        "Joint": "NEW Built-in T-Joint, T-ANCHOR",
+        "Length": "10 mm longer",
+        "Weight / Grip": "4U (Avg. 83g) G5, 6",
+        "Stringing Advice": "4U: 19 - 27 lbs",
+        "Recommended String": "Control Players: EXBOLT 63Hard Hitters: EXBOLT 65",
+        "Color(s)": "Gray / Yellow",
+        "Made In": "Japan",
+        "Item Code": "ARC7-P",
+        "MAIN TIE OFF:\r\nb8, B8": "CROSS TIE OFF:\r\nA5"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/r/arc7-p.png",
+        "https://www.yonex.com/media/catalog/product/a/r/arc7p_k2_frame_1.png",
+        "https://www.yonex.com/media/catalog/product/a/r/arc7p_k1_shaft.png",
+        "https://www.yonex.com/media/catalog/product/a/r/arc7p_k2_bb.png",
+        "https://www.yonex.com/media/catalog/product/a/r/arc7p_img2.png",
+        "https://www.yonex.com/media/catalog/product/a/r/arc7-p_815-2.png",
+        "https://www.yonex.com/media/catalog/product/a/r/arc7-p_815-3.png",
+        "https://www.yonex.com/media/catalog/product/a/r/arc7-p_815-4.png",
+        "https://www.yonex.com/media/catalog/product/a/r/arc7-p_815-5.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/racquets/arcsaber-7-pro",
+    "local_images": [
+        "data/yonex/products-detail/arcsaber-7-pro/img/1.png",
+        "data/yonex/products-detail/arcsaber-7-pro/img/2.png",
+        "data/yonex/products-detail/arcsaber-7-pro/img/3.png",
+        "data/yonex/products-detail/arcsaber-7-pro/img/4.png",
+        "data/yonex/products-detail/arcsaber-7-pro/img/5.png",
+        "data/yonex/products-detail/arcsaber-7-pro/img/6.png",
+        "data/yonex/products-detail/arcsaber-7-pro/img/7.png",
+        "data/yonex/products-detail/arcsaber-7-pro/img/8.png",
+        "data/yonex/products-detail/arcsaber-7-pro/img/9.png"
+    ]
+}

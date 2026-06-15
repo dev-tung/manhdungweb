@@ -1,0 +1,29 @@
+{
+    "name": "KNIT SHORTS",
+    "slug": "knit-shorts",
+    "url": "https://www.yonex.com/badminton/apparel/15247",
+    "category": "apparel",
+    "image": "https://www.yonex.com/media/catalog/product/i/n/int_15247_007_1.jpg?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/apparel/knit-shorts.jpg",
+    "title": "KNIT SHORTS",
+    "description": null,
+    "specs": {
+        "Color(s)": "Fresh Lime, Steel Gray, White",
+        "Material(s)": "Main : 87% Polyester, 13% PolystyreneOther : 83% Polyester,\t17% PolystyreneLining : 100% Polyester",
+        "Made In": "Japan",
+        "Item Code": "15227"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/i/n/int_15227_680.png",
+        "https://www.yonex.com/media/catalog/product/i/n/int_15227_680_bs.png",
+        "https://www.yonex.com/media/catalog/product/i/n/int_15227_680-4.png",
+        "https://www.yonex.com/media/catalog/product/i/n/int_15227_680-6.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/apparel/knit-shorts",
+    "local_images": [
+        "data/yonex/products-detail/knit-shorts/img/1.png",
+        "data/yonex/products-detail/knit-shorts/img/2.png",
+        "data/yonex/products-detail/knit-shorts/img/3.png",
+        "data/yonex/products-detail/knit-shorts/img/4.png"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "POWER CUSHION 65 Z VA WOMEN",
+    "slug": "power-cushion-65-z-va-women",
+    "url": "https://www.yonex.com/badminton/footwear/shbvazl",
+    "category": "footwear",
+    "image": "https://www.yonex.com/media/catalog/product/a/l/all_shbvazl_452-1.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/footwear/power-cushion-65-z-va-women.png",
+    "title": "POWER CUSHION 65 Z VA WOMEN",
+    "description": null,
+    "specs": {
+        "Color(s)": "Grayish Beige",
+        "Surface": "All-Court",
+        "Upper": "Synthetic Leather",
+        "Midsole": "Synthetic Resin",
+        "Outsole": "Rubber Sole",
+        "Size": "22.0 ~ 27.0 cm",
+        "Material": "POWER CUSHION +, Power Graphite Lite, Seameless Upper, Inner Bootie, Ergonomic Shaped Outsole",
+        "Made In": "Vietnam",
+        "Item Code": "SHBVAZL"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/l/all_shbvazl_452-1.png",
+        "https://www.yonex.com/media/catalog/product/a/l/all_shbvazl_452-2.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/footwear/power-cushion-65-z-va-women",
+    "local_images": [
+        "data/yonex/products-detail/power-cushion-65-z-va-women/img/1.png",
+        "data/yonex/products-detail/power-cushion-65-z-va-women/img/2.png"
+    ]
+}

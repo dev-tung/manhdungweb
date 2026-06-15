@@ -1,0 +1,22 @@
+{
+    "name": "EYE GUARD",
+    "slug": "eye-guard",
+    "url": "https://www.yonex.com/badminton/accessories/eye-guard",
+    "category": "accessories",
+    "image": "https://www.yonex.com/media/catalog/product/a/c/ac392ex.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/accessories/eye-guard.png",
+    "title": "EYE GUARD",
+    "description": "",
+    "specs": {
+        "Color(s)": "White/ Red",
+        "Material(s)": "Polycarbonate",
+        "Item Code": "AC392"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/c/ac392ex.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/accessories/eye-guard",
+    "local_images": [
+        "data/yonex/products-detail/eye-guard/img/1.png"
+    ]
+}

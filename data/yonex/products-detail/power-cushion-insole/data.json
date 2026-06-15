@@ -1,0 +1,25 @@
+{
+    "name": "POWER CUSHION+ INSOLE",
+    "slug": "power-cushion-insole",
+    "url": "https://www.yonex.com/badminton/accessories/power-cushion-insole",
+    "category": "accessories",
+    "image": "https://www.yonex.com/media/catalog/product/a/c/ac195_004_a.png?quality=80&bg-color=248,248,248,0.75&fit=bounds&height=300&width=240&canvas=240:300",
+    "image_file": "data/yonex/products/img/accessories/power-cushion-insole.png",
+    "title": "POWER CUSHION+ INSOLE",
+    "description": "",
+    "specs": {
+        "Color(s)": "Yellow",
+        "Size": "S / 22.0 - 24.0cm, M / 24.5 - 26.5cm, L / 27.0- 29.0cm, XL / 29.5 - 31.0cm",
+        "Material(s)": "POWER CUSHION+",
+        "Item Code": "AC195"
+    },
+    "images": [
+        "https://www.yonex.com/media/catalog/product/a/c/ac195_004_a.png",
+        "https://www.yonex.com/media/catalog/product/a/c/ac195_004_b.png"
+    ],
+    "detail_url": "https://www.yonex.com/badminton/accessories/power-cushion-insole",
+    "local_images": [
+        "data/yonex/products-detail/power-cushion-insole/img/1.png",
+        "data/yonex/products-detail/power-cushion-insole/img/2.png"
+    ]
+}
